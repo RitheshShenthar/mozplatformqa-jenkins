@@ -7,6 +7,7 @@
         <string>org.mozilla.Negatus</string>
 	<key>Program</key>
         <string>/Users/mozilla/src/Negatus/agent</string>
+        <string>/Users/mozilla/src/Negatus/agent -p 20703 --heartbeat 20702</string>
         <key>RunAtLoad</key>
         <true/>
         <key>WorkingDirectory</key>
